@@ -31,22 +31,15 @@ Clear trends for data-driven decisions
 
 
 
-Student Exam Analysis Dashboard — Power BI
+
+📊 Student Exam Analysis Dashboard — Power BI
 
 A Power BI dashboard analyzing 1,823+ exam sessions to help educators understand student performance and learning trends.
 
-📌 Key Features
+🔑 Key Features
 
 Core KPIs: Overall Pass Rate – 70.60%, with 40% improvement among repeat-test students.
-
 Advanced DAX: Custom measures for Second Attempt Improvement and Exam Decline Rate (%).
-
 Risk Insights: Identifies exams with the highest decline rate for targeted intervention.
-
 Trend Analysis: Pass Rate trend by exam date to understand learning patterns over time.
-
 Data Quality: Gold/Silver/Bronze conditional formatting to highlight top performers.
-
-🛠️ Tech Stack
-
-Power BI, Power Query, DAX, Data Modeling
