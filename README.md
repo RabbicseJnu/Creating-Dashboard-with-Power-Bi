@@ -31,11 +31,22 @@ Clear trends for data-driven decisions
 
 
 
-Student Exam Analysis Dashboard
-This Power BI dashboard analyzes over 1823 exam sessions, transforming raw data into actionable insights for educators.
-Core Metrics: Key Performance Indicators include a 70.60% Pass Rate and visualization of student performance trends (40% showed improvement).
-Advanced DAX: Complex DAX measures were implemented, including Second Attempt Improvement and Exam Decline Rate (%), to quantify learning efficacy and identify high-risk content.
-Risk Management: A dedicated visual pinpoints which exams have the highest decline rate, enabling targeted intervention and support.
-Trend Analysis: A Line Chart evaluates the correlation between exam dates and the overall Pass Rate trend over time.
-Data Quality: Conditional Formatting (Gold/Silver/Bronze) ensures rapid identification of top performers in any filtered context.
-Technology: Project demonstrates strong expertise in Power BI, Power Query, and advanced DAX modeling for educational analytics.
+Student Exam Analysis Dashboard — Power BI
+
+A Power BI dashboard analyzing 1,823+ exam sessions to help educators understand student performance and learning trends.
+
+📌 Key Features
+
+Core KPIs: Overall Pass Rate – 70.60%, with 40% improvement among repeat-test students.
+
+Advanced DAX: Custom measures for Second Attempt Improvement and Exam Decline Rate (%).
+
+Risk Insights: Identifies exams with the highest decline rate for targeted intervention.
+
+Trend Analysis: Pass Rate trend by exam date to understand learning patterns over time.
+
+Data Quality: Gold/Silver/Bronze conditional formatting to highlight top performers.
+
+🛠️ Tech Stack
+
+Power BI, Power Query, DAX, Data Modeling
